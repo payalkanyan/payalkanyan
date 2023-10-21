@@ -7,4 +7,4 @@
 
 💻 I possess a diverse skill set that allows me to not only work on blockchain projects but also create stunning UIs for websites.
 
-📫 Feel free to connect with me via Email: [Your Email Address]
+📫 Feel free to connect with me via Email: payal@ch.iitr.ac.in
