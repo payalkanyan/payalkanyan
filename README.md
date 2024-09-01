@@ -10,3 +10,4 @@
 📫 Feel free to connect with me via Email: payal@ch.iitr.ac.in
 
 ![Payal's GitHub stats](https://github-readme-stats.vercel.app/api?username=payalkanyan&show_icons=true&theme=nightowl)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payalkanyan&layout=pie)](https://github.com/payalkanyan/github-readme-stats)
