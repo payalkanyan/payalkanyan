@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 
-👋 Hi, I'm Payal, a blockchain enthusiast with a knack for Machine Leanring and Deep Learning.
+👋 Hi, I'm Payal, a blockchain enthusiast with a strong passion for Machine Learning and Agentic AI.
 
-🎓 I hail from IIT Roorkee, and I'm passionate about crafting seamless user experiences.
+🎓 I hail from IIT Roorkee and thrive on crafting seamless, user-centric digital experiences.
 
-💻 I possess a diverse skill set that allows me to not only work on blockchain but also create stunning UIs for websites blending AI in projects.
+💻 With a diverse skill set spanning blockchain development and AI-powered systems, I build intelligent, end-to-end solutions that blend innovation with real-world impact.
 
-📫 Feel free to connect with me via Email: payal@ch.iitr.ac.in
+🌐 Explore more of my work at [me](https://payalkanyan.github.io/payal)
+📫 Feel free to connect with me via [X](https://x.com/0xpastril)
 
