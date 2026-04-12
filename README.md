@@ -1,12 +1,76 @@
-### Hi there 👋
+# Hi, I'm Payal Kanyan 👋
 
+---
 
-👋 Hi, I'm Payal, a blockchain enthusiast with a strong passion for Machine Learning and Agentic AI.
+## [About me](https://payalkanyan.github.io/payal)
 
-🎓 I hail from IIT Roorkee and thrive on crafting seamless, user-centric digital experiences.
+Final year at IIT Roorkee building production ML systems — RAG pipelines, containerized inference services, and semantic retrieval. Open to ML Engineering roles.
 
-💻 With a diverse skill set spanning blockchain development and AI-powered systems, I build intelligent, end-to-end solutions that blend innovation with real-world impact.
+- 🌱 Currently exploring Agentic AI and distributed blockchain systems.
+- 🤝 Looking to collaborate on blockchain, AI, and open-source projects.
+- 💬 Ask me about **Blockchain, LLMs, Machine Learning and Agentic AI**.
+- 📫 How to reach me: [X / @0xpastril](https://x.com/0xpastril) | [Substack](https://payalkanyan.susbtack.com) | [Portfolio](https://payalkanyan.github.io/payal)
+- 🎓 IIT Roorkee '26
 
-🌐 Explore more of my work at [me](https://payalkanyan.github.io/payal)
-📫 Feel free to connect with me via [X](https://x.com/0xpastril)
+---
 
+## Tech Stack
+
+Here are some technologies I work with:
+
+Here are some technologies I work with:
+ 
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+ 
+**ML / AI Frameworks**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+ 
+**AI Systems**
+![RAG](https://img.shields.io/badge/RAG_Systems-6B4FBB?style=flat&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+ 
+**Engineering & Infra**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+ 
+---
+
+## Featured Projects
+
+- 🤖 [**kora**](https://github.com/payalkanyan/readthedocs) — AWS S3 documentation assistant
+- 📚 [**scholar_lens**](https://github.com/payalkanyan/scholar_lens) — AI-powered academic research assistant
+- 🔍 [**parser**](https://github.com/payalkanyan/parser) — Python-based email parser 
+- ⛓️ [**goevm**](https://github.com/payalkanyan/goevm) — EVM implementation in Go
+- 💳 [**CreditCardBehPred**](https://github.com/payalkanyan/CreditCardBehPred) — Credit card behaviour prediction with ML
+
+---
+
+## Writing
+
+✍️ [My Substack](https://payalkanyan.susbtack.com) — thoughts on blockchain, AI & engineering
+
+---
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=payalkanyan&show_icons=true&theme=github_dark&hide_border=true" alt="Payal's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalkanyan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
