@@ -17,8 +17,6 @@ Final year at IIT Roorkee building production ML systems — RAG pipelines, cont
 ## Tech Stack
 
 Here are some technologies I work with:
-
-Here are some technologies I work with:
  
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
