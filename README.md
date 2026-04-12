@@ -65,10 +65,3 @@ Here are some technologies I work with:
 ✍️ [My Substack](https://payalkanyan.susbtack.com) — thoughts on blockchain, AI & engineering
 
 ---
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=payalkanyan&show_icons=true&theme=github_dark&hide_border=true" alt="Payal's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalkanyan&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
