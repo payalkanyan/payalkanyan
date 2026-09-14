@@ -4,7 +4,7 @@
 
 ## [About me](https://payalkanyan.github.io/payal)
 
-Final year at IIT Roorkee building production ML systems — RAG pipelines, containerized inference services, and semantic retrieval. Open to ML Engineering roles.
+IIT Roorkee'26 building production ML systems — RAG pipelines, containerized inference services, and semantic retrieval. Open to ML Engineering roles.
 
 - 🌱 Currently exploring Agentic AI and distributed blockchain systems.
 - 🤝 Looking to collaborate on blockchain, AI, and open-source projects.
