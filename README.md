@@ -9,7 +9,7 @@ IIT Roorkee'26 building production ML systems - RAG pipelines, containerized inf
 - 🌱 Currently exploring Agentic AI and distributed blockchain systems.
 - 🤝 Looking to collaborate on blockchain, AI, and open-source projects.
 - 💬 Ask me about **Blockchain, LLMs, Machine Learning and Agentic AI**.
-- 📫 How to reach me: [X / @0xpastril](https://x.com/0xpastril) | [Substack](https://payalkanyan.susbtack.com) | [Portfolio](https://payalkanyan.github.io/payal)
+- 📫 How to reach me: [X / @0xpastril](https://x.com/0xpastril) | [Substack](https://payalkanyan.substack.com) | [Portfolio](https://payalkanyan.github.io/payal)
 - 🎓 IIT Roorkee '26
 
 ---
@@ -45,9 +45,10 @@ Here are some technologies I work with:
 
 ## Featured Projects
 
-- 🤖 [**kora**](https://github.com/payalkanyan/readthedocs) — AWS S3 documentation assistant
-- 📚 [**scholar_lens**](https://github.com/payalkanyan/scholar_lens) — AI-powered academic research assistant
-- 🔍 [**parser**](https://github.com/payalkanyan/parser) — Python-based email parser 
+- 🧠 [**Personal Knowledge OS**](https://github.com/payalkanyan/Personal-KnowOS) — Agentic RAG assistant with autonomous tool routing, hybrid retrieval, async ingestion pipeline and a Chrome extension
+- 🤖 [**Kora**](https://github.com/payalkanyan/readthedocs) — RAG assistant for AWS S3 documentation (Ollama + ChromaDB + FastAPI) · [Live demo](http://awsrag.duckdns.org)
+- 🔍 [**HiLabs Roster Parser**](https://github.com/payalkanyan/parser) — Hybrid rule-based + NER pipeline that extracts provider data from healthcare emails · HiLabs AiQuest '25 winner
+- 📚 [**ScholarLens**](https://github.com/payalkanyan/scholar_lens) — arXiv paper recommender using TF-IDF and cosine similarity, with a Streamlit UI
 - ⛓️ [**goevm**](https://github.com/payalkanyan/goevm) — EVM implementation in Go
 - 💳 [**CreditCardBehPred**](https://github.com/payalkanyan/CreditCardBehPred) — Credit card behaviour prediction with ML
 
