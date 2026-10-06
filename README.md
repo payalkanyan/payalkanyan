@@ -44,7 +44,7 @@ Here are some technologies I work with:
 ---
 
 ## Featured Projects
-
+- ⛓️ [**Hinglish Caller Benchmark**](https://github.com/payalkanyan/hinglish-caller-bench) — Evaluate AI customer-service agents with simulated Indian callers speaking Hindi, Hinglish, and English.
 - 🧠 [**Personal Knowledge OS**](https://github.com/payalkanyan/Personal-KnowOS) — Agentic RAG assistant with autonomous tool routing, hybrid retrieval, async ingestion pipeline and a Chrome extension
 - 🤖 [**Kora**](https://github.com/payalkanyan/readthedocs) — RAG assistant for AWS S3 documentation (Ollama + ChromaDB + FastAPI) · [Live demo](http://awsrag.duckdns.org)
 - 🔍 [**HiLabs Roster Parser**](https://github.com/payalkanyan/parser) — Hybrid rule-based + NER pipeline that extracts provider data from healthcare emails · HiLabs AiQuest '25 winner
