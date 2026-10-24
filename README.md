@@ -6,7 +6,7 @@
 
 Data Engineer at **Tredence Analytics** and IIT Roorkee '26 graduate, building production ML and agentic AI systems: RAG pipelines, LLM agents, agent evaluation, and large-scale data pipelines on Databricks. Open to **AI / ML Engineering** roles.
 
-- 📄 Co-author of [**Post-Audit Mirage: Identifiability Limits of Offline Agent Verification**](https://openreview.net/forum?id=6cQdbUSme7), a poster at the **NeurIPS 2026 VerifyAgents** workshop
+- 📄 Co-author of [**Post-Audit Mirage: Identifiability Limits of Offline Agent Verification**](https://arxiv.org/abs/2610.31130), a poster at the **NeurIPS 2026 VerifyAgents** workshop
 - 🌱 Currently working on **evaluating AI agents**: when offline tests predict real-world behaviour, and when they don't
 - 🏆 Winner, **HiLabs AiQuest '25** · Selected for **Amazon ML Summer School '25**
 - 🤝 Open to collaborating on agent evaluation, LLM tooling and open-source AI
